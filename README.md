@@ -1,0 +1,2 @@
+# Fazz
+Personal website index
